@@ -1,4 +1,6 @@
 {
+  "posts": [
+    {
    "ContenidoAdicional":    {
       "Cartera":       {
          "Alnova": 0,
@@ -250,4 +252,14 @@
    "DescripcionError": "",
    "ExisteError": false,
    "NumeroError": 0
+}
+
+  
+  
+  
+  
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
